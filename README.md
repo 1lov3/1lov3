@@ -3,7 +3,7 @@
 # ⚙️Tools
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord,figma,replit,vscode"/>
+    <img src="https://skillicons.dev/icons?i=github,figma,replit,vscode"/>
   </a>
 </p>
 
