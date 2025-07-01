@@ -1,5 +1,5 @@
 # 👀Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,py)](https://skillicons.dev)
 # ⚙️Tools
 <p align="right">
   <a href="https://skillicons.dev">
